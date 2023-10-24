@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Finn Kitor
 # Created on: October 23rd, 2023
-# this program checks if the number the user guessed is correct with the try case statement..
+# this program checks if the number the user guessed is correct with the try case statement.
 import random
 random.randint(0,9)
 
